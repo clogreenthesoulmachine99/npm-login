@@ -1,8 +1,2 @@
 # npm-login
 Login config
-"publishConfig": { "registry": "https://npm.pkg.github.com/" }
-
-
-npm login --registry=https://npm.pkg.github.com/
-
-npm publish
